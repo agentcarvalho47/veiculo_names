@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489099410924",
+    "firebase_url": "https://veiculo-names-app-db.firebaseio.com",
+    "project_id": "veiculo-names-app-db",
+    "storage_bucket": "veiculo-names-app-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489099410924:android:843b0890d859c585f454c9",
+        "android_client_info": {
+          "package_name": "com.example.veiculo_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489099410924-nmebilr8m68veodu6226nhjqkj2kbfib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA70u_U3-Ts_s_TbxY3WjogqgaXXR7eujU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489099410924-nmebilr8m68veodu6226nhjqkj2kbfib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
